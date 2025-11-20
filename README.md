@@ -82,7 +82,7 @@ step(G3);
 title('PID controller');
 ```
 
-## Output: 
+## Output : 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbe1b50c-0937-462a-878a-4fa6f0f9aca3" />
 
